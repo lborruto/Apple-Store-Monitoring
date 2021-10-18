@@ -76,11 +76,11 @@ Thanks to [@rovingrob](https://twitter.com/rovingrob) for pointing this out!
 ![image](listing.png)
 ![image](appointment_slot.png)
 
-### Model Numbers (US)
+### Model Numbers
 
+- To get the exact model code for your country go to your country equivalent of https://www.apple.com/fr/shop/product-locator-meta?family=iphone13 and get the `partNumber`.
 - These are some model numbers but others can be found easily at third party sellers.
 - Keep in mind these are country specific but you can truncate the information to skip the country information.
-- To get the exact model code for your country go to your country equivalent of https://www.apple.com/de/shop/product-locator-meta?family=iphone12mini and get the `partNumber`.
 
 ### Dev Notes
 
