@@ -10,6 +10,7 @@ from datetime import datetime
 import crayons
 import minibar
 import requests
+import telegram_send
 
 
 class Configuration:
@@ -122,7 +123,7 @@ class StoreChecker:
         # Play the sound if phone is available.
         if stock_available:
             print("\n{}".format(crayons.green("Current Status - Stock is Available")))
-            os.system('say "Device Available!"')
+            telegram_send.send(messages=["Apple Watch Disponible!"])
         else:
             print("\n{}".format(crayons.red("Current Status - No Stock Available")))
         print("\n")
