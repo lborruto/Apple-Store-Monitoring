@@ -36,7 +36,7 @@ The configuration file has the following variables:
 
 ### Telegram Notification
 
-Create a Telegram bot by talking to @BotFather, and copy the token.
+Create a Telegram bot by talking to [@BotFather](https://telegram.me/BotFather), and copy the token.
 
 Next, you'll need to configure telegram-send by running :
 `telegram-send --configure`
