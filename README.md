@@ -36,10 +36,10 @@ The configuration file has the following variables:
 
 ### Telegram Notification
 
-You'll need to configure telegram-send by running :
-`telegram-send --configure`
+Create a Telegram bot by talking to @BotFather, and copy the token.
 
-Create the bot and get the token directly in Telegram by talking to BotFather.
+Next, you'll need to configure telegram-send by running :
+`telegram-send --configure`
 
 ### Apple Watch
 
