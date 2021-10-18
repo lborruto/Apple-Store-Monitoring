@@ -34,6 +34,13 @@ The configuration file has the following variables:
 
 **To get store's ID, model number, and carrier names you will have to run the script once.**
 
+### Telegram Notification
+
+You'll need to configure telegram-send by running :
+`telegram-send --configure`
+
+Create the bot and get the token directly in Telegram by talking to BotFather.
+
 ### Apple Watch
 
 To monitor Apple Watch skip family name parameter and just enter the particular model number. An example configuration would be.
