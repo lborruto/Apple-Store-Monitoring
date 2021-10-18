@@ -50,11 +50,11 @@ To monitor Apple Watch skip family name parameter and just enter the particular 
 
 ```
 {
-  "country_code": "us",
-  "zip_code": "90210",
-  "models": ["MU642LL/A"],
-  "stores": ["R462"],
-  "appointment_stores": ["R462"],
+  "country_code": "fr",
+  "zip_code": "69001",
+  "models": ["MKMQ3NF/A"],
+  "stores": ["R469", "R373"]
+  "appointment_stores": ["R469"],
 }
 ```
 
